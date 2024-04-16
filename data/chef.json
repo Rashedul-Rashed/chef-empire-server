@@ -1,0 +1,307 @@
+[
+	{
+		"id": 1,
+		"name": "Alain Ducasse",
+		"experience": 40,
+		"recipes": 300,
+		"likes": 1000,
+		"image": "https://www.celebrity-direct.com/wp-content/uploads/2017/07/hire-alain-ducasse.jpg",
+		"bio": "Alain Ducasse is a French-born chef and restaurateur who has earned a total of 21 Michelin stars throughout his career, making him one of the most decorated chefs in the world. He has been recognized for his innovative cooking techniques and his use of fresh, locally-sourced ingredients.",
+		"recipeInfo": [
+			{
+				"name": "Grilled Lobster with Garlic Butter",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"lobster",
+					"garlic",
+					"butter",
+					"lemon",
+					"parsley"
+				],
+				"cooking_method": "Grill the lobster until the shell turns red. In a small saucepan, melt the butter and add garlic. Add lemon juice and chopped parsley. Serve the lobster with the garlic butter sauce.",
+				"rating": 4.5
+			},
+			{
+				"name": "Ratatouille",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"eggplant",
+					"zucchini",
+					"yellow squash",
+					"bell pepper",
+					"onion"
+				],
+				"cooking_method": "Slice the vegetables thinly and sauté them in olive oil until tender. Season with salt and pepper to taste. Serve hot or cold.",
+				"rating": 4.0
+			},
+			{
+				"name": "Chocolate Mousse",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"dark chocolate",
+					"egg yolks",
+					"sugar",
+					"whipping cream",
+					"butter"
+				],
+				"cooking_method": "Melt the chocolate and butter in a double boiler. Beat the egg yolks and sugar until thick and pale. Fold in the melted chocolate. In a separate bowl, beat the whipping cream until stiff peaks form. Fold the whipped cream into the chocolate mixture. Chill in the fridge until set.",
+				"rating": 4.8
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Joël Robuchon",
+		"experience": 50,
+		"recipes": 300,
+		"likes": 900,
+		"image": "https://www.bravotv.com/sites/bravo/files/styles/blog-post-embedded--tablet/public/field_blog_image/2018/08/feast-chef-joel-robuchon.jpg?itok=mG3j1_Wy",
+		"bio": "Joël Robuchon was a French chef and restaurateur who earned a total of 32 Michelin stars throughout his career, making him one of the most acclaimed chefs in the world. He was known for his minimalist approach to cooking and his use of fresh, high-quality ingredients.",
+		"recipeInfo": [
+			{
+				"name": "Potato Purée",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"potatoes",
+					"butter",
+					"heavy cream",
+					"salt",
+					"white pepper"
+				],
+				"cooking_method": "Boil potatoes until tender. Mash the potatoes with a potato ricer or masher. Add butter and heavy cream, and mix well. Season with salt and white pepper to taste.",
+				"rating": 4.7
+			},
+			{
+				"name": "Lobster with Truffle Butter",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"lobster",
+					"truffle butter",
+					"shallots",
+					"white wine",
+					"heavy cream"
+				],
+				"cooking_method": "Boil the lobster until cooked. In a separate pan, sauté shallots in truffle butter. Add white wine and heavy cream, and reduce until the sauce thickens. Serve the lobster with the sauce on the side.",
+				"rating": 4.9
+			},
+			{
+				"name": "Chocolate Soufflé",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"butter",
+					"sugar",
+					"chocolate",
+					"egg yolks",
+					"egg whites"
+				],
+				"cooking_method": "Preheat the oven to 375°F. Butter ramekins and sprinkle with sugar. Melt chocolate in a double boiler. In a separate bowl, whisk together egg yolks and melted chocolate. In another bowl, beat egg whites until stiff peaks form. Gently fold egg whites into chocolate mixture. Pour mixture into ramekins and bake for 12-15 minutes, until soufflés are puffed and set.",
+				"rating": 4.6
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Paul Bocuse",
+		"experience": 60,
+		"recipes": 500,
+		"likes": 1200,
+		"image": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/im_square_33/public/Paul-Bocuse.jpg.webp?itok=D9WKVFrW",
+		"bio": "Paul Bocuse was a French chef and restaurateur who became one of the most prominent chefs of the 20th century. He was known for his innovative approach to French cuisine, which combined traditional techniques with new and creative ideas. He was also a pioneer of nouvelle cuisine, a culinary movement that emphasized lighter, fresher ingredients and simpler preparation techniques.",
+		"recipeInfo": [
+			{
+				"name": "Soupe aux truffes VGE",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"beef broth",
+					"truffles",
+					"foie gras",
+					"puff pastry",
+					"egg yolk"
+				],
+				"cooking_method": "Heat the beef broth with truffles and foie gras. Cut the puff pastry into circles and bake until golden brown. Beat the egg yolk and add to the soup. Place the puff pastry on top of the soup and serve.",
+				"rating": 4.9
+			},
+			{
+				"name": "Salade Lyonnaise",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"frisee lettuce",
+					"bacon",
+					"eggs",
+					"shallots",
+					"dijon mustard"
+				],
+				"cooking_method": "Wash the frisee lettuce and chop into bite-size pieces. Cook the bacon until crispy and chop into small pieces. Hard boil the eggs and slice them. Mix shallots with dijon mustard to make the dressing. Combine all ingredients and serve.",
+				"rating": 4.6
+			},
+			{
+				"name": "Coq au Vin",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"chicken",
+					"red wine",
+					"bacon",
+					"onions",
+					"carrots"
+				],
+				"cooking_method": "Season the chicken with salt and pepper. Brown the chicken and bacon in a pan. Remove the chicken and add onions and carrots. Cook until soft. Add red wine and chicken back to the pan. Simmer for 30 minutes.",
+				"rating": 4.8
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Guy Savoy",
+		"experience": 45,
+		"recipes": 250,
+		"likes": 800,
+		"image": "https://tasteandflavors.com/wp-content/uploads/2017/12/Guy-Savoy-Featured.jpg",
+		"bio": "Guy Savoy is a French chef known for his sophisticated and innovative approach to traditional French cuisine. He has received numerous awards and accolades throughout his career, including three Michelin stars for his restaurant Guy Savoy in Paris.",
+		"recipeInfo": [
+			{
+				"name": "Artichoke and Black Truffle Soup",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"artichokes",
+					"black truffle",
+					"butter",
+					"chicken stock",
+					"cream"
+				],
+				"cooking_method": "Melt butter in a pot, then add chopped artichokes and black truffle. Add chicken stock and simmer until artichokes are tender. Purée the mixture in a blender. Return the mixture to the pot and add cream. Bring to a simmer and serve.",
+				"rating": 4.7
+			},
+			{
+				"name": "Roasted Sea Bass with Sorrel Sauce",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"sea bass fillet",
+					"sorrel",
+					"butter",
+					"shallot",
+					"white wine",
+					"lemon"
+				],
+				"cooking_method": "Preheat oven to 400°F. Season the sea bass fillet with salt and pepper, then roast in the oven for 10-15 minutes. In a separate pan, sauté chopped shallots in butter until softened. Add white wine and reduce. Add chopped sorrel and cook until wilted. Add lemon juice and season to taste. Serve the sea bass with the sorrel sauce.",
+				"rating": 4.8
+			},
+			{
+				"name": "Raspberry Soufflé",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"egg whites",
+					"sugar",
+					"raspberries",
+					"butter",
+					"flour",
+					"milk"
+				],
+				"cooking_method": "Preheat oven to 375°F. Butter and flour a soufflé dish. In a separate pan, heat milk and raspberries until boiling. Purée the mixture in a blender and strain. In a separate pan, make a roux with butter and flour. Add the raspberry purée and stir well. In a separate bowl, beat egg whites and sugar until stiff peaks form. Fold the egg whites into the raspberry mixture. Pour the mixture into the soufflé dish and bake for 15-20 minutes or until risen and golden brown.",
+				"rating": 4.6
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Anne-Sophie Pic",
+		"experience": 25,
+		"recipes": 300,
+		"likes": 700,
+		"image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/07/de/cc/la-chef-anne-sophie-pic.jpg",
+		"bio": "Anne-Sophie Pic is a French chef who comes from a family of renowned chefs. She is the fourth generation of her family to lead the three Michelin starred restaurant, Maison Pic, in Valence, France. She is known for her use of fresh, seasonal ingredients and innovative flavor combinations.",
+		"recipeInfo": [
+			{
+				"name": "Green Asparagus with Hazelnut Oil",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"asparagus",
+					"hazelnut oil",
+					"lemon",
+					"salt",
+					"pepper"
+				],
+				"cooking_method": "Blanch asparagus until tender. Drizzle with hazelnut oil, lemon juice, salt, and pepper to taste. Serve warm or at room temperature.",
+				"rating": 4.6
+			},
+			{
+				"name": "Roast Pigeon with Cherry Reduction",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"pigeon",
+					"cherries",
+					"red wine",
+					"chicken stock",
+					"butter"
+				],
+				"cooking_method": "Season pigeon with salt and pepper. Roast in the oven until cooked to desired doneness. In a separate pan, cook cherries with red wine and chicken stock until reduced. Finish the sauce with butter. Serve the pigeon with the cherry reduction.",
+				"rating": 4.8
+			},
+			{
+				"name": "Strawberry and Rose Millefeuille",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"puff pastry",
+					"strawberries",
+					"sugar",
+					"rose water",
+					"whipped cream"
+				],
+				"cooking_method": "Bake puff pastry until golden brown. Mix sliced strawberries, sugar, and rose water. Layer the strawberries and whipped cream between the pastry layers. Serve chilled.",
+				"rating": 4.7
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Yannick Alléno",
+		"experience": 30,
+		"recipes": 250,
+		"likes": 800,
+		"image": "https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/JIG_sL23YsmQlp7EmI1nxpmKcmM=/800x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/TATPMJ65YD7C4UPMVM7O3SZ3WI.jpg",
+		"bio": "Yannick Alléno is a French chef who is renowned for his innovative approach to French cuisine. He is the head chef at the three-Michelin-starred restaurant, Alléno Paris au Pavillon Ledoyen, in Paris. Alléno has won numerous awards throughout his career and is considered one of the most influential chefs in the world.",
+		"recipeInfo": [
+			{
+				"name": "Scallops with Cauliflower and Black Truffle",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"scallops",
+					"cauliflower",
+					"butter",
+					"black truffle",
+					"lemon juice"
+				],
+				"cooking_method": "Season the scallops with salt and pepper. Sear them in a hot pan with butter. Cut the cauliflower into small florets and cook in boiling salted water until tender. Plate the scallops with the cauliflower and shave black truffle over the top. Finish with a squeeze of lemon juice.",
+				"rating": 4.8
+			},
+			{
+				"name": "Risotto with Parmesan and White Truffle",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"arborio rice",
+					"shallots",
+					"butter",
+					"white wine",
+					"chicken or vegetable stock",
+					"parmesan cheese",
+					"white truffle"
+				],
+				"cooking_method": "Cook diced shallots in butter until softened. Add arborio rice and cook for 2-3 minutes. Add white wine and stir until absorbed. Add stock, one ladleful at a time, stirring until absorbed before adding more. Once the rice is cooked, stir in grated parmesan cheese and shave white truffle over the top before serving.",
+				"rating": 4.7
+			},
+			{
+				"name": "Roasted Lamb with Rosemary and Garlic",
+				"image": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+				"ingredients": [
+					"lamb rack",
+					"rosemary",
+					"garlic",
+					"olive oil",
+					"salt",
+					"pepper"
+				],
+				"cooking_method": "Season the lamb rack with salt and pepper. Sear it in a hot pan with olive oil until browned on all sides. Transfer to a roasting pan and roast in the oven at 180°C for 15-20 minutes, depending on the desired doneness. Crush the garlic and mix with chopped rosemary and olive oil. Brush the lamb with the mixture before serving.",
+				"rating": 4.6
+			}
+		]
+	}
+]
